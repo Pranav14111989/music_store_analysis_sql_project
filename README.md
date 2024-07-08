@@ -1,4 +1,5 @@
 SQL PROJECT : MUSIC STORE ANALYSIS 
+
 This music sales database project utilizes SQL queries, encompassing diverse functions like SUM, COUNT, and ORDER BY, to extract crucial insights such as top-spending customers, popular genres, and highest-selling artists. Through meticulous analysis and leveraging SQL's capabilities, it aims to unveil key patterns and trends within the music sales domain.
 
 Learnings:
